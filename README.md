@@ -1,7 +1,9 @@
 # Setup-File-Library-management
 Desktop Library management System using C-sharp
 
-First of all installsql Local db in your pc
+First of all extract the zip file.
+
+If you are installing for the first time then install sqlLocal db in your pc before executing setup.exe otherwise not required.
 
 Then install the setup.exe file.
 
